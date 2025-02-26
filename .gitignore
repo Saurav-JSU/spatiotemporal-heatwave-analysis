@@ -29,7 +29,6 @@ ENV/
 .ipynb_checkpoints
 
 # Data directories
-Daily Data/
 Heatwave Indices/
 Mean and Max/
 Figures/

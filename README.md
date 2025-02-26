@@ -4,7 +4,7 @@ A comprehensive Python-based analysis pipeline for calculating heatwave indices 
 
 ## Overview
 
-This pipeline enables the analysis of climate data to identify and characterize heatwaves across different geographical regions. It allows for flexible state selection, comprehensive heatwave metrics calculation, and generates publication-quality visualizations of heatwave patterns.
+This pipeline enables the analysis of climate data to identify and characterize heatwaves across different geographical regions. It allows for flexible state selection, comprehensive heatwave metrics calculation, and generates visualizations of heatwave patterns.
 
 ## Features
 
