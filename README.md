@@ -158,14 +158,11 @@ The pipeline generates various output files, including:
 If you use this code in your research, please cite the original paper:
 
 ```
-[Citation information for the Mississippi heatwave analysis paper]
+Bhattarai, S., Bista, S., Sharma, S. et al. Spatiotemporal characterization of heatwave exposure across historically vulnerable communities. Sci Rep 14, 20882 (2024). https://doi.org/10.1038/s41598-024-71704-9
 ```
-
-## License
-
-[Specify your license here, e.g., MIT, GPL, etc.]
 
 ## Acknowledgments
 
 - ERA5 data provided by the Copernicus Climate Change Service
-- [Any other acknowledgments]
+- HICORPS Project (Hydrological Impacts Computing, Outreach, Resiliency and Partnership Project) in collaboration with ERDC and WOOLPERT. 
+- Jackson State University
